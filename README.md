@@ -1,6 +1,7 @@
 # Spring Boot Starter with aliyun OSS and Minio OSS
 
 整合了阿里云和Minio的OSS SDK，为Spring Boot 项目提供可插拔的OSS对象存储服务功能。
+个人博客：https://felord.cn
 
 # API
 

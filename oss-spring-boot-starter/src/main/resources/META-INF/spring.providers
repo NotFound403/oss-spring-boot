@@ -1,1 +1,1 @@
-providers: sms-spring-boot-autoconfigure
+providers: oss-spring-boot-autoconfigure
